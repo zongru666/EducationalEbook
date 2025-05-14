@@ -82,5 +82,5 @@
 
 如果您觉得这个项目对您有帮助，您可以扫描以下二维码进行捐赠：
 <p align="left">
-  <img src="![赞赏码（纯码）](https://github.com/user-attachments/assets/43f4922f-5d55-4216-8db2-98ca7c4fe460)" width="20%">
+  <img src="https://github.com/user-attachments/assets/43f4922f-5d55-4216-8db2-98ca7c4fe460" width="20%">
 </p>
